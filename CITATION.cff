@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Liber
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Davide
+    family-names: Aruta
+    role : transcriber
+    email: davide.aruta@univ-lyon2.fr
+    affiliation: CIHAM
+  - given-names: Martina
+    family-names: Lenzi
+    role : transcriber
+    email: martina.lenzi@chartes.psl.eu
+    affiliation: Centre Jean Mabillon
+  - given-names: Armelle
+    family-names: Le Huërou
+    role : transcriber
+    email: armellelehuerou@yahoo.fr
+    affiliation: CIHAM
+    orcid : 0000-0001-7938-2686
+  - given-names: Ariane
+    family-names: Pinche
+    role : data manager
+    email: ariane.pinche@cnrs.fr
+    affiliation: CIHAM
+    orcid: '0000-0002-7843-5050'
+repository-code: 'https://github.com/CIHAM-HTR/Liber/data'
+abstract: >-
+  HTR datasets from medieval manuscripts (14th-15th c.) with Pierre Bersuire's translation into Old French of the work of Titus Livius or Nicolas Trevet Commentaries
+keywords:
+  - HTR
+  - Old French
+  - Latin
+  - ground truth
+license: CC-BY-4.0
+date-released: '2023-04-13'
