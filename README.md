@@ -1,8 +1,5 @@
 LIBER
 =====================
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
-[![HTR United Workflow](https://github.com/CIHAM-HTR/Liber/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/CIHAM-HTR/Liber/actions/workflows/htr-united-workflows.yml) 
-
 
 **HTR datasets from medieval manuscripts (14th-15th c.) with Pierre Bersuire's translation into Old French of the work of Titus Livius and Nicolas Trevet Commentaries**
 
@@ -21,7 +18,7 @@ Data have been made in **eScriptorium**, see https://gitlab.com/scripta/escripto
 
 ## Transcription guidelines
 
-Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. <hal-03697382>
+Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. [hal-03697382](https://hal.science/hal-03697382/document)
 
 ## Sources
 
