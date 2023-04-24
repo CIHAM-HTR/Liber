@@ -1,5 +1,6 @@
 LIBER
 =====================
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 **HTR datasets from medieval manuscripts (14th-15th c.) with Pierre Bersuire's translation into Old French of the work of Titus Livius and Nicolas Trevet Commentaries**
 
