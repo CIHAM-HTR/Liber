@@ -1,0 +1,69 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Liber
+url: https://github.com/CIHAM-HTR/Liber
+authors:
+  - name: Davide
+    surname: Aruta
+    roles:
+      - transcriber
+      - aligner
+  - name: Martina
+    surname: Lenzi
+    roles:
+      - transcriber
+      - aligner
+  - name: Armelle
+    surname: Le Huërou
+    orcid: 0000-0001-7938-2686
+    roles:
+      - transcriber
+      - aligner
+  - name: Marylène
+    surname: Possamaï
+    orcid: 0000-0002-9250-370X
+    roles:
+      - project-manager
+  - name: Ariane
+    surname: Pinche
+    orcid: 0000-0002-7843-5050
+    roles:
+      - quality-control
+institutions: []
+description: >-
+  HTR datasets of medieval manuscripts (14th-15th c.) with Pierre Bersuire’s
+  translation into Old French of the work of Titus Livius and Nicolas Trevet
+  Commentaries
+project-website: https://anr.fr/Projet-ANR-21-CE27-0008
+language:
+  - fro
+  - lat
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1300'
+  notAfter: '1400'
+hands:
+  count: '1'
+  precision: estimated
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+sources:
+  - reference: >-
+      Aruta, D., Lenzi, M., Le Huërou, A., Possamaï, M., & Pinche, A. (2023).
+      Liber [Data set]. https://github.com/CIHAM-HTR/Liber/data
+    link: https://github.com/CIHAM-HTR/Liber
+volume:
+  - metric: files
+    count: 37
+citation-file-link: https://github.com/CIHAM-HTR/Liber/blob/main/CITATION.cff
+transcription-guidelines: >-
+  Data follow the standards recommended by the CREMMA projects, see Ariane
+  Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022.
+  hal-03697382 - and Thibault Clérice, Malamatenia Vlachou-Efstathiou, Alix
+  Chagué. CREMMA Medii Aevi: Literary manuscript text recognition in Latin.
+  Journal of Open Humanities Data, 2023, 9, pp.4. ⟨10.5334/johd.97⟩.
+  ⟨hal-03828353v5⟩
