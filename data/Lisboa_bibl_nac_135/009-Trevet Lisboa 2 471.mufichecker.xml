@@ -1,0 +1,773 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>009-Trevet Lisboa 2 471.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4807" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4806" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4810" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4808" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2286" HEIGHT="3404" PHYSICAL_IMG_NR="8" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2286" HEIGHT="3404">
+        
+        <TextBlock HPOS="151" VPOS="363" WIDTH="778" HEIGHT="2411" ID="eSc_textblock_7e5290ee" TAGREFS="BT4806">
+          <Shape><Polygon POINTS="185 363 906 363 929 484 929 2713 891 2759 204 2774 158 2744 151 468 185 363"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_735ec31f" BASELINE="160 412 881 408" HPOS="160" VPOS="380" WIDTH="721" HEIGHT="58">
+            <Shape><Polygon POINTS="878 391 859 391 840 391 821 389 802 389 783 389 764 387 745 387 726 387 707 385 688 385 669 385 650 385 632 383 613 383 594 383 575 382 556 382 537 382 526 380 170 380 160 397 160 412 160 438 879 438 881 408 878 391 878 391"/></Shape>
+	    <String CONTENT="finis ẽẽt utriusqz imperii .s. romani ⁊ cartha" HPOS="160" VPOS="380" WIDTH="721" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c098ec37" BASELINE="170 459 876 453" HPOS="168" VPOS="425" WIDTH="708" HEIGHT="53">
+            <Shape><Polygon POINTS="170 459 170 478 874 474 876 453 870 425 168 429 170 459"/></Shape>
+	    <String CONTENT="ginensis. seruareturqz libertas saguntinis" HPOS="168" VPOS="425" WIDTH="708" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d91b26f2" BASELINE="181 508 893 504" HPOS="179" VPOS="467" WIDTH="714" HEIGHT="68">
+            <Shape><Polygon POINTS="181 508 181 535 891 531 893 504 889 474 230 467 228 467 179 476 181 508"/></Shape>
+	    <String CONTENT="sic dictis ab urbe saguntio mediis .s. existen" HPOS="179" VPOS="467" WIDTH="714" HEIGHT="68"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f749de36" BASELINE="179 554 891 550" HPOS="177" VPOS="520" WIDTH="714" HEIGHT="62">
+            <Shape><Polygon POINTS="179 554 179 582 889 576 891 550 881 520 177 521 179 554"/></Shape>
+	    <String CONTENT="tibz inter imperia duorum populorũ .s. rõa" HPOS="177" VPOS="520" WIDTH="714" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab179e28" BASELINE="185 597 885 593" HPOS="183" VPOS="567" WIDTH="702" HEIGHT="58">
+            <Shape><Polygon POINTS="185 597 185 625 885 622 885 593 879 567 183 567 185 597"/></Shape>
+	    <String CONTENT="norum et cartaginensum. ¶ In hasdru" HPOS="183" VPOS="567" WIDTH="702" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad77f7ef" BASELINE="183 644 883 641" HPOS="181" VPOS="612" WIDTH="702" HEIGHT="61">
+            <Shape><Polygon POINTS="183 644 183 673 881 663 883 641 878 612 181 614 183 644"/></Shape>
+	    <String CONTENT="balis. Hic docz quomodo hanibal in ducem" HPOS="181" VPOS="612" WIDTH="702" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f62d9ed" BASELINE="181 695 872 690" HPOS="179" VPOS="652" WIDTH="693" HEIGHT="70">
+            <Shape><Polygon POINTS="181 695 181 722 838 722 838 720 840 720 872 709 872 690 866 652 179 658 181 695"/></Shape>
+	    <String CONTENT="electus fuit. Et circa hoc duo facit. quia pͦ" HPOS="179" VPOS="652" WIDTH="693" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4740562d" BASELINE="181 741 868 735" HPOS="179" VPOS="707" WIDTH="689" HEIGHT="53">
+            <Shape><Polygon POINTS="181 741 181 760 866 754 868 735 864 709 179 707 181 741"/></Shape>
+	    <String CONTENT="docz ꝙ hasdrubali in ducatum successit." HPOS="179" VPOS="707" WIDTH="689" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3b1898c" BASELINE="181 782 883 782" HPOS="181" VPOS="743" WIDTH="702" HEIGHT="64">
+            <Shape><Polygon POINTS="181 782 181 807 883 801 883 782 883 743 826 743 825 743 823 743 821 743 808 754 781 745 779 745 777 745 775 745 590 754 580 748 575 743 573 743 571 743 569 743 567 743 548 748 531 752 503 748 454 743 452 743 450 743 448 743 439 750 433 754 397 750 329 745 327 745 181 754 181 782"/></Shape>
+	    <String CONTENT="2ͦ circa hoc quedam altius repetit.ibi. hũc" HPOS="181" VPOS="743" WIDTH="702" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b96bd19c" BASELINE="183 820 881 824" HPOS="181" VPOS="786" WIDTH="700" HEIGHT="61">
+            <Shape><Polygon POINTS="183 820 181 839 194 847 196 847 198 847 200 847 879 839 881 824 878 786 183 788 183 820"/></Shape>
+	    <String CONTENT="uix. Quantum ad pͥmum dicit haud .i. nõ" HPOS="181" VPOS="786" WIDTH="700" HEIGHT="61" WC="0.967886704206467"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6c5a5f4" BASELINE="181 869 885 866" HPOS="179" VPOS="828" WIDTH="706" HEIGHT="70">
+            <Shape><Polygon POINTS="181 869 181 898 883 894 885 866 879 828 179 832 181 869"/></Shape>
+	    <String CONTENT="dubia res fuit. quin fauor eciam plebis seq̃" HPOS="179" VPOS="828" WIDTH="706" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf5ea791" BASELINE="183 915 889 915" HPOS="183" VPOS="885" WIDTH="706" HEIGHT="56">
+            <Shape><Polygon POINTS="183 915 183 941 889 936 889 915 889 885 183 885 183 915"/></Shape>
+	    <String CONTENT="batur p̾rogatiuam militarem .s. hanibalis" HPOS="183" VPOS="885" WIDTH="706" HEIGHT="56"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46bbbdb0" BASELINE="185 962 881 962" HPOS="185" VPOS="922" WIDTH="696" HEIGHT="65">
+            <Shape><Polygon POINTS="185 962 185 987 881 981 881 962 879 922 815 932 647 924 596 922 594 922 185 928 185 962"/></Shape>
+	    <String CONTENT="i. qͥn plebs fauit hanibali ꝓpter p̾rogatiuã" HPOS="185" VPOS="922" WIDTH="696" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74acecaf" BASELINE="183 1006 891 1006" HPOS="183" VPOS="975" WIDTH="708" HEIGHT="55">
+            <Shape><Polygon POINTS="183 1006 183 1030 891 1030 891 1006 885 975 183 975 183 1006"/></Shape>
+	    <String CONTENT="militie qua .i. pp̃ quam iuuenis hanibal de" HPOS="183" VPOS="975" WIDTH="708" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63a4660b" BASELINE="179 1049 881 1042" HPOS="177" VPOS="1015" WIDTH="704" HEIGHT="66">
+            <Shape><Polygon POINTS="179 1049 181 1081 223 1070 295 1079 297 1079 298 1079 300 1079 369 1068 480 1077 493 1077 495 1077 501 1077 548 1066 596 1076 601 1076 603 1076 879 1070 881 1042 878 1015 177 1015 179 1049"/></Shape>
+	    <String CONTENT="latus est extemplo .i. statim in pretorium" HPOS="177" VPOS="1015" WIDTH="704" HEIGHT="66" WC="0.974004132407052"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca5f760d" BASELINE="183 1094 879 1089" HPOS="181" VPOS="1057" WIDTH="698" HEIGHT="60">
+            <Shape><Polygon POINTS="183 1094 183 1117 879 1117 879 1089 876 1059 221 1057 219 1057 217 1057 181 1066 183 1094"/></Shape>
+	    <String CONTENT="s. hasdrubalis uͥ .s. milites cõuenerant ĩꝑa" HPOS="181" VPOS="1057" WIDTH="698" HEIGHT="60"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ce02c4b" BASELINE="179 1138 878 1134" HPOS="177" VPOS="1106" WIDTH="701" HEIGHT="57">
+            <Shape><Polygon POINTS="179 1138 179 1161 876 1163 878 1134 872 1106 177 1108 179 1138"/></Shape>
+	    <String CONTENT="torqz appellatus erat in locum hasdrubalis" HPOS="177" VPOS="1106" WIDTH="701" HEIGHT="57" WC="0.994454074473608"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3147bac1" BASELINE="183 1187 861 1183" HPOS="181" VPOS="1153" WIDTH="680" HEIGHT="59">
+            <Shape><Polygon POINTS="183 1187 183 1210 857 1212 861 1183 857 1153 181 1153 183 1187"/></Shape>
+	    <String CONTENT="ingenti clamore atqz assensu omnium." HPOS="181" VPOS="1153" WIDTH="680" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5321393b" BASELINE="189 1234 864 1227" HPOS="187" VPOS="1197" WIDTH="677" HEIGHT="60">
+            <Shape><Polygon POINTS="189 1234 189 1257 862 1246 864 1227 859 1197 187 1200 189 1234"/></Shape>
+	    <String CONTENT="¶ Hunc uix. hic de hanibale quedam" HPOS="187" VPOS="1197" WIDTH="677" HEIGHT="60"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5ea2007" BASELINE="183 1276 887 1276" HPOS="183" VPOS="1240" WIDTH="704" HEIGHT="62">
+            <Shape><Polygon POINTS="183 1276 183 1301 885 1302 887 1276 885 1240 183 1242 183 1276"/></Shape>
+	    <String CONTENT="repetit atius. pͥmo docens quonodo in hys" HPOS="183" VPOS="1240" WIDTH="704" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74efc237" BASELINE="183 1318 874 1314" HPOS="181" VPOS="1287" WIDTH="693" HEIGHT="57">
+            <Shape><Polygon POINTS="183 1318 183 1344 872 1344 874 1314 868 1287 181 1289 183 1318"/></Shape>
+	    <String CONTENT="paniam ad hasdrubalem fuit accersitus." HPOS="181" VPOS="1287" WIDTH="693" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8402a2f" BASELINE="179 1357 876 1357" HPOS="179" VPOS="1331" WIDTH="697" HEIGHT="57">
+            <Shape><Polygon POINTS="179 1357 179 1386 874 1388 876 1357 876 1331 179 1331 179 1357"/></Shape>
+	    <String CONTENT="2ͦ quomodo tam imperatori ꝙͣ excercitui" HPOS="179" VPOS="1331" WIDTH="697" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19e3a956" BASELINE="179 1406 857 1406" HPOS="179" VPOS="1372" WIDTH="678" HEIGHT="61">
+            <Shape><Polygon POINTS="179 1406 179 1429 855 1433 857 1406 855 1372 179 1374 179 1406"/></Shape>
+	    <String CONTENT="fuit acceptus ibi. missus. Tercio ꝙͣto tp̃e" HPOS="179" VPOS="1372" WIDTH="678" HEIGHT="61" WC="0.980484560478565"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f5d738f" BASELINE="181 1450 862 1446" HPOS="179" VPOS="1410" WIDTH="683" HEIGHT="66">
+            <Shape><Polygon POINTS="181 1450 181 1476 861 1475 862 1446 859 1418 228 1410 227 1410 179 1420 181 1450"/></Shape>
+	    <String CONTENT="sub hasdrubale militie est ĩmoratus. ibi" HPOS="179" VPOS="1410" WIDTH="683" HEIGHT="66" WC="0.995959446197603"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af15cf26" BASELINE="183 1492 853 1492" HPOS="183" VPOS="1463" WIDTH="670" HEIGHT="49">
+            <Shape><Polygon POINTS="183 1492 183 1512 853 1512 853 1492 853 1463 183 1463 183 1492"/></Shape>
+	    <String CONTENT="cum hac. Circa pͥmum .iiii.ͦ ͬ facit. quia" HPOS="183" VPOS="1463" WIDTH="670" HEIGHT="49"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e248324" BASELINE="185 1535 879 1539" HPOS="183" VPOS="1497" WIDTH="696" HEIGHT="70">
+            <Shape><Polygon POINTS="185 1535 183 1563 876 1567 879 1539 879 1505 185 1497 185 1535"/></Shape>
+	    <String CONTENT="pͥmo docz quõ hasdrubal hanibalem ꝑ lrãs" HPOS="183" VPOS="1497" WIDTH="696" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f325656" BASELINE="187 1580 881 1586" HPOS="185" VPOS="1550" WIDTH="696" HEIGHT="59">
+            <Shape><Polygon POINTS="187 1580 185 1601 878 1609 881 1586 879 1554 187 1550 187 1580"/></Shape>
+	    <String CONTENT="accersunt. dicens. hunc .s. hanibalem uix" HPOS="185" VPOS="1550" WIDTH="696" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8bc02ff" BASELINE="185 1624 879 1630" HPOS="183" VPOS="1588" WIDTH="696" HEIGHT="62">
+            <Shape><Polygon POINTS="185 1624 183 1650 878 1650 879 1630 878 1599 185 1588 185 1624"/></Shape>
+	    <String CONTENT="dum puberem .i. uix statum pubertatis" HPOS="183" VPOS="1588" WIDTH="696" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_531ba36b" BASELINE="187 1671 885 1671" HPOS="187" VPOS="1639" WIDTH="698" HEIGHT="55">
+            <Shape><Polygon POINTS="187 1671 187 1694 885 1694 885 1671 883 1639 187 1641 187 1671"/></Shape>
+	    <String CONTENT="actingentem ⁊cͣ. ¶ Secundo. cum dicit" HPOS="187" VPOS="1639" WIDTH="698" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b97c6342" BASELINE="187 1715 896 1719" HPOS="185" VPOS="1684" WIDTH="711" HEIGHT="61">
+            <Shape><Polygon POINTS="887 1715 872 1684 187 1684 187 1715 185 1741 893 1745 896 1719 896 1684 887 1684 887 1715"/></Shape>
+	    <String CONTENT="actaqz. docz quomodo ut micteretur brachini" HPOS="185" VPOS="1684" WIDTH="711" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca93ffb8" BASELINE="189 1762 891 1762" HPOS="189" VPOS="1734" WIDTH="702" HEIGHT="49">
+            <Shape><Polygon POINTS="189 1762 189 1783 891 1783 891 1762 889 1734 189 1734 189 1762"/></Shape>
+	    <String CONTENT="annitebantur dicens. actaqz .i. tractata res. s" HPOS="189" VPOS="1734" WIDTH="702" HEIGHT="49"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bf65b2b" BASELINE="189 1806 896 1802" HPOS="187" VPOS="1766" WIDTH="709" HEIGHT="58">
+            <Shape><Polygon POINTS="189 1806 189 1824 896 1821 896 1802 891 1766 187 1768 189 1806"/></Shape>
+	    <String CONTENT="de mittendo hanibalem ad hasdrubalem. in seã" HPOS="187" VPOS="1766" WIDTH="709" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e994d80" BASELINE="187 1851 889 1847" HPOS="185" VPOS="1819" WIDTH="704" HEIGHT="53">
+            <Shape><Polygon POINTS="187 1851 187 1872 889 1868 889 1847 885 1821 185 1819 187 1851"/></Shape>
+	    <String CONTENT="tum eciam fuerat intentibz brachinis nom̃" HPOS="185" VPOS="1819" WIDTH="704" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3459014b" BASELINE="187 1894 885 1898" HPOS="185" VPOS="1857" WIDTH="700" HEIGHT="64">
+            <Shape><Polygon POINTS="187 1894 185 1921 883 1917 885 1898 883 1862 187 1857 187 1894"/></Shape>
+	    <String CONTENT="familie est. ut assuesceret hanibal militie et" HPOS="185" VPOS="1857" WIDTH="700" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58ae7141" BASELINE="189 1942 885 1938" HPOS="187" VPOS="1911" WIDTH="698" HEIGHT="50">
+            <Shape><Polygon POINTS="189 1942 189 1961 885 1957 885 1938 879 1911 187 1911 189 1942"/></Shape>
+	    <String CONTENT="ideo uolebant eum mitti ad hasdrubalem hy" HPOS="187" VPOS="1911" WIDTH="698" HEIGHT="50"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79c1bebd" BASELINE="185 1983 876 1983" HPOS="185" VPOS="1949" WIDTH="691" HEIGHT="65">
+            <Shape><Polygon POINTS="185 1983 185 2014 876 2008 876 1983 876 1955 185 1949 185 1983"/></Shape>
+	    <String CONTENT="spaniam atqz succederet .s. hanibal in pater" HPOS="185" VPOS="1949" WIDTH="691" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98d1904f" BASELINE="187 2029 878 2029" HPOS="187" VPOS="1995" WIDTH="691" HEIGHT="60">
+            <Shape><Polygon POINTS="187 2029 187 2055 878 2055 878 2029 876 1995 187 2000 187 2029"/></Shape>
+	    <String CONTENT="nas opes .s. assuefactus milicie. ¶ Tertio" HPOS="187" VPOS="1995" WIDTH="691" HEIGHT="60"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b53a64fb" BASELINE="189 2078 878 2074" HPOS="187" VPOS="2040" WIDTH="691" HEIGHT="61">
+            <Shape><Polygon POINTS="189 2078 189 2101 876 2099 878 2074 872 2040 187 2048 189 2078"/></Shape>
+	    <String CONTENT="cum dicit. hanno. docz quõ quidam pͥnceps" HPOS="187" VPOS="2040" WIDTH="691" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd201bdb" BASELINE="189 2116 895 2123" HPOS="187" VPOS="2087" WIDTH="708" HEIGHT="59">
+            <Shape><Polygon POINTS="189 2116 187 2140 891 2146 895 2123 893 2087 189 2087 189 2116"/></Shape>
+	    <String CONTENT="nõĩe hanno ne mitteretur contradicit. dicẽs" HPOS="187" VPOS="2087" WIDTH="708" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3a1a8f1" BASELINE="189 2169 891 2169" HPOS="189" VPOS="2133" WIDTH="702" HEIGHT="66">
+            <Shape><Polygon POINTS="189 2169 189 2193 889 2199 891 2169 889 2133 189 2133 189 2169"/></Shape>
+	    <String CONTENT="hanno pͥnceps alterius factionis .i. consentiẽ" HPOS="189" VPOS="2133" WIDTH="702" HEIGHT="66"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54c477ef" BASELINE="187 2212 862 2218" HPOS="185" VPOS="2184" WIDTH="677" HEIGHT="56">
+            <Shape><Polygon POINTS="187 2212 185 2239 859 2240 862 2218 861 2186 187 2184 187 2212"/></Shape>
+	    <String CONTENT="tium in partem alteram .s. ne mitteretur." HPOS="185" VPOS="2184" WIDTH="677" HEIGHT="56"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a5528b7" BASELINE="187 2261 895 2265" HPOS="185" VPOS="2225" WIDTH="710" HEIGHT="63">
+            <Shape><Polygon POINTS="887 2261 881 2233 187 2225 187 2261 185 2286 891 2288 895 2265 893 2235 887 2233 887 2261"/></Shape>
+	    <String CONTENT="inquid hasdrubalis uidetur et equum .i. iustũ" HPOS="185" VPOS="2225" WIDTH="710" HEIGHT="63"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e9f58b7" BASELINE="187 2309 895 2309" HPOS="187" VPOS="2275" WIDTH="708" HEIGHT="64">
+            <Shape><Polygon POINTS="887 2309 874 2276 187 2275 187 2309 187 2339 895 2339 895 2309 895 2278 891 2276 887 2309"/></Shape>
+	    <String CONTENT="postulare et ego tñ non censeo .i. iudico tribu" HPOS="187" VPOS="2275" WIDTH="708" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_408ea700" BASELINE="187 2352 878 2348" HPOS="185" VPOS="2322" WIDTH="693" HEIGHT="57">
+            <Shape><Polygon POINTS="187 2352 187 2379 876 2379 878 2348 872 2322 185 2324 187 2352"/></Shape>
+	    <String CONTENT="endum quod petit. cum autem conuertissz" HPOS="185" VPOS="2322" WIDTH="693" HEIGHT="57" WC="0.983796801322546"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3885c1b9" BASELINE="187 2394 879 2394" HPOS="187" VPOS="2363" WIDTH="692" HEIGHT="53">
+            <Shape><Polygon POINTS="187 2394 187 2416 879 2414 879 2394 878 2363 187 2363 187 2394"/></Shape>
+	    <String CONTENT="s. hanno omnes in se ãmiracione tam anci" HPOS="187" VPOS="2363" WIDTH="692" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0b83d31" BASELINE="181 2439 889 2439" HPOS="181" VPOS="2405" WIDTH="708" HEIGHT="62">
+            <Shape><Polygon POINTS="181 2439 181 2467 889 2467 889 2439 889 2407 181 2405 181 2439"/></Shape>
+	    <String CONTENT="pitis .i. dubie sentencie .s. ꝙ hasdrubal iuste" HPOS="181" VPOS="2405" WIDTH="708" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ff8c51a" BASELINE="187 2483 893 2483" HPOS="187" VPOS="2450" WIDTH="706" HEIGHT="65">
+            <Shape><Polygon POINTS="887 2483 872 2450 187 2450 187 2483 187 2515 893 2511 893 2483 893 2452 887 2450 887 2483"/></Shape>
+	    <String CONTENT="peteret et tamen sensit quod non deberet fieri" HPOS="187" VPOS="2450" WIDTH="706" HEIGHT="65" WC="0.993759573801704"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a537996" BASELINE="191 2528 879 2532" HPOS="189" VPOS="2494" WIDTH="690" HEIGHT="64">
+            <Shape><Polygon POINTS="191 2528 189 2551 876 2558 879 2532 876 2494 191 2498 191 2528"/></Shape>
+	    <String CONTENT="quod petebat. inqͥ .s. hanno. cum hasdrubal" HPOS="189" VPOS="2494" WIDTH="690" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfb9ca06" BASELINE="189 2573 870 2577" HPOS="187" VPOS="2541" WIDTH="683" HEIGHT="64">
+            <Shape><Polygon POINTS="189 2573 187 2592 529 2605 531 2605 868 2596 870 2577 868 2547 189 2541 189 2573"/></Shape>
+	    <String CONTENT="censet .i. iudicat iusto iure repeti a filio .s." HPOS="187" VPOS="2541" WIDTH="683" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ea2ae7c" BASELINE="193 2613 418 2622 870 2615" HPOS="191" VPOS="2587" WIDTH="679" HEIGHT="62">
+            <Shape><Polygon POINTS="193 2613 193 2641 562 2649 563 2649 868 2638 870 2615 866 2592 191 2587 193 2613"/></Shape>
+	    <String CONTENT="regis amulcaris florem .i. pulcritudinem" HPOS="191" VPOS="2587" WIDTH="679" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc06ef59" BASELINE="189 2657 887 2660" HPOS="187" VPOS="2626" WIDTH="700" HEIGHT="59">
+            <Shape><Polygon POINTS="189 2657 187 2685 885 2681 887 2660 878 2634 189 2626 189 2657"/></Shape>
+	    <String CONTENT="iuuentutis ad abusum suum. quem .s. flo" HPOS="187" VPOS="2626" WIDTH="700" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_318fee94" BASELINE="187 2706 891 2706" HPOS="187" VPOS="2679" WIDTH="704" HEIGHT="106">
+            <Shape><Polygon POINTS="876 2679 187 2679 187 2706 187 2783 300 2762 329 2762 350 2781 350 2783 351 2783 353 2783 355 2783 357 2783 361 2781 399 2762 448 2762 482 2779 488 2783 490 2783 492 2785 546 2785 546 2783 548 2783 558 2779 594 2762 641 2778 660 2783 662 2783 664 2783 724 2779 726 2779 728 2779 732 2776 751 2762 802 2776 832 2783 834 2783 836 2783 838 2783 855 2776 868 2768 887 2774 891 2706 887 2706 876 2679"/></Shape>
+	    <String CONTENT="rem. ip̃e .s. hasdrubal prebuit fruendum pr̃i" HPOS="187" VPOS="2679" WIDTH="704" HEIGHT="106"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1052" VPOS="355" WIDTH="762" HEIGHT="2419" ID="eSc_textblock_f1eae0f8" TAGREFS="BT4806">
+          <Shape><Polygon POINTS="1593 355 1769 355 1807 408 1814 2713 1746 2774 1074 2774 1052 2744 1059 400 1074 370 1593 355"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1fe0fb9f" BASELINE="1078 412 1782 406" HPOS="1078" VPOS="378" WIDTH="704" HEIGHT="55">
+            <Shape><Polygon POINTS="1776 383 1758 383 1739 383 1720 383 1701 383 1682 383 1663 383 1644 383 1625 383 1606 382 1587 382 1568 382 1549 382 1530 382 1512 382 1493 382 1474 382 1455 382 1436 382 1417 380 1398 380 1379 380 1360 380 1341 380 1322 380 1303 380 1284 380 1266 380 1247 378 1228 378 1209 378 1190 378 1171 378 1152 378 1133 378 1114 378 1095 378 1082 389 1078 412 1078 433 1780 427 1782 406 1778 383 1776 383"/></Shape>
+	    <String CONTENT="hanibalis .s. amulcaris ut prius tactum est. tñ" HPOS="1078" VPOS="378" WIDTH="704" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f688feaa" BASELINE="1080 455 1782 455" HPOS="1080" VPOS="421" WIDTH="702" HEIGHT="63">
+            <Shape><Polygon POINTS="1080 455 1080 484 1782 484 1782 455 1782 423 1080 421 1080 455"/></Shape>
+	    <String CONTENT="minime docz nos assuefacere iuuentutẽ nrãm" HPOS="1080" VPOS="421" WIDTH="702" HEIGHT="63"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e7b0192" BASELINE="1080 506 1773 497" HPOS="1078" VPOS="463" WIDTH="695" HEIGHT="66">
+            <Shape><Polygon POINTS="1080 506 1080 529 1773 516 1773 497 1767 463 1078 468 1080 506"/></Shape>
+	    <String CONTENT="i. iuuenes nr̃os. libidini p̾toꝵ .i. magr̃atuũ" HPOS="1078" VPOS="463" WIDTH="695" HEIGHT="66"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54854c33" BASELINE="1076 550 1769 544" HPOS="1074" VPOS="512" WIDTH="695" HEIGHT="61">
+            <Shape><Polygon POINTS="1076 550 1076 573 1767 567 1769 544 1763 512 1074 514 1076 550"/></Shape>
+	    <String CONTENT="spẽm pro gn̾e posuit. pro militari rudimẽto" HPOS="1074" VPOS="512" WIDTH="695" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9b41187" BASELINE="1078 597 1775 591" HPOS="1076" VPOS="563" WIDTH="699" HEIGHT="62">
+            <Shape><Polygon POINTS="1078 597 1078 625 1773 616 1775 591 1769 563 1076 563 1078 597"/></Shape>
+	    <String CONTENT="i. ut comparẽt in uicia militie per libidinem" HPOS="1076" VPOS="563" WIDTH="699" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae82b416" BASELINE="1078 646 1765 642" HPOS="1076" VPOS="608" WIDTH="689" HEIGHT="57">
+            <Shape><Polygon POINTS="1078 646 1078 665 1765 661 1765 642 1759 608 1076 610 1078 646"/></Shape>
+	    <String CONTENT="et an timemꝰ hoc ne filius amulcaris .s. ha" HPOS="1076" VPOS="608" WIDTH="689" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0bcd680" BASELINE="1078 695 1763 690" HPOS="1076" VPOS="654" WIDTH="687" HEIGHT="64">
+            <Shape><Polygon POINTS="1078 695 1078 716 1759 718 1763 690 1759 654 1076 654 1078 695"/></Shape>
+	    <String CONTENT="nibal nimis sero .i. tarde uideat imperia in" HPOS="1076" VPOS="654" WIDTH="687" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2791419b" BASELINE="1080 739 1758 735" HPOS="1078" VPOS="707" WIDTH="680" HEIGHT="58">
+            <Shape><Polygon POINTS="1080 739 1080 764 1754 765 1758 735 1752 707 1078 709 1080 739"/></Shape>
+	    <String CONTENT="modica .i. magna et sp̃e regini paterni ꝙͣi" HPOS="1078" VPOS="707" WIDTH="680" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbc2c63f" BASELINE="1080 782 1763 779" HPOS="1078" VPOS="750" WIDTH="685" HEIGHT="51">
+            <Shape><Polygon POINTS="1080 782 1080 801 1761 798 1763 779 1759 754 1078 750 1080 782"/></Shape>
+	    <String CONTENT="drẽt. non oz hoc timere. per hoc excludit al" HPOS="1078" VPOS="750" WIDTH="685" HEIGHT="51"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d406c15" BASELINE="1078 824 1759 820" HPOS="1076" VPOS="792" WIDTH="683" HEIGHT="55">
+            <Shape><Polygon POINTS="1078 824 1078 843 1756 847 1759 820 1756 794 1076 792 1078 824"/></Shape>
+	    <String CONTENT="legatiõem brachinorum qui uoluerũt ideo" HPOS="1076" VPOS="792" WIDTH="683" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41ca495b" BASELINE="1076 869 1767 864" HPOS="1074" VPOS="832" WIDTH="693" HEIGHT="62">
+            <Shape><Polygon POINTS="1076 869 1076 894 1767 894 1767 864 1763 833 1074 832 1076 869"/></Shape>
+	    <String CONTENT="hanibalem mitti ad hasdrubalem ut assue" HPOS="1074" VPOS="832" WIDTH="693" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_605d17e9" BASELINE="1071 915 1761 911" HPOS="1069" VPOS="881" WIDTH="692" HEIGHT="58">
+            <Shape><Polygon POINTS="1071 915 1071 939 1759 936 1761 911 1756 881 1069 883 1071 915"/></Shape>
+	    <String CONTENT="factus militie succederet in regno paterno" HPOS="1069" VPOS="881" WIDTH="692" HEIGHT="58"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7923005" BASELINE="1080 964 1759 956" HPOS="1078" VPOS="930" WIDTH="681" HEIGHT="59">
+            <Shape><Polygon POINTS="1080 964 1080 989 1758 989 1759 956 1756 932 1078 930 1080 964"/></Shape>
+	    <String CONTENT="et .s. timemꝰ ꝙ parum mature seruiamus" HPOS="1078" VPOS="930" WIDTH="681" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc0b4593" BASELINE="1065 1007 1769 1004" HPOS="1063" VPOS="975" WIDTH="706" HEIGHT="55">
+            <Shape><Polygon POINTS="1065 1007 1065 1030 1769 1021 1769 1004 1763 975 1063 977 1065 1007"/></Shape>
+	    <String CONTENT="filio eius .s. amulcaris regis cuiꝰ regis gn̾o" HPOS="1063" VPOS="975" WIDTH="706" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdcd22b2" BASELINE="1078 1051 1773 1045" HPOS="1076" VPOS="1009" WIDTH="697" HEIGHT="68">
+            <Shape><Polygon POINTS="1078 1051 1078 1077 1773 1064 1773 1045 1767 1009 1076 1019 1078 1051"/></Shape>
+	    <String CONTENT="s. hasdrubalis relicti sunt excercitus nr̃i hẽ" HPOS="1076" VPOS="1009" WIDTH="697" HEIGHT="68" WC="0.963235275542482"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f3809ee" BASELINE="1080 1096 1767 1091" HPOS="1078" VPOS="1059" WIDTH="689" HEIGHT="66">
+            <Shape><Polygon POINTS="1080 1096 1080 1125 1765 1111 1767 1091 1761 1059 1078 1064 1080 1096"/></Shape>
+	    <String CONTENT="ditarii. ꝙͣi drẽt non oz hoc timere. quia satis" HPOS="1078" VPOS="1059" WIDTH="689" HEIGHT="66"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_012d2eae" BASELINE="1082 1140 1769 1136" HPOS="1080" VPOS="1100" WIDTH="689" HEIGHT="61">
+            <Shape><Polygon POINTS="1082 1140 1082 1161 1767 1157 1769 1136 1763 1100 1080 1110 1082 1140"/></Shape>
+	    <String CONTENT="mature seruemꝰ et sacis cito succedet in reg ͦ" HPOS="1080" VPOS="1100" WIDTH="689" HEIGHT="61" WC="0.972430695010268"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e70c7c7e" BASELINE="1080 1183 1776 1183" HPOS="1080" VPOS="1149" WIDTH="696" HEIGHT="66">
+            <Shape><Polygon POINTS="1080 1183 1080 1215 1776 1215 1776 1183 1775 1149 1080 1151 1080 1183"/></Shape>
+	    <String CONTENT="pr̃no. Et ideo ego censeo .i. iudico istũ iuuenẽ" HPOS="1080" VPOS="1149" WIDTH="696" HEIGHT="66"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29f41cef" BASELINE="1078 1231 1775 1231" HPOS="1078" VPOS="1200" WIDTH="697" HEIGHT="55">
+            <Shape><Polygon POINTS="1078 1231 1078 1255 1775 1255 1775 1231 1775 1200 1078 1200 1078 1231"/></Shape>
+	    <String CONTENT="s. hanibalem filium regis tenendum domi" HPOS="1078" VPOS="1200" WIDTH="697" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1c81da3" BASELINE="1078 1278 1761 1272" HPOS="1076" VPOS="1242" WIDTH="685" HEIGHT="59">
+            <Shape><Polygon POINTS="1078 1278 1078 1301 1759 1301 1761 1272 1756 1242 1076 1246 1078 1278"/></Shape>
+	    <String CONTENT="sub legibz sub magr̃atibz docendumqz uiue̾" HPOS="1076" VPOS="1242" WIDTH="685" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d9c57d4" BASELINE="1082 1316 1758 1321" HPOS="1080" VPOS="1285" WIDTH="678" HEIGHT="57">
+            <Shape><Polygon POINTS="1082 1316 1080 1340 1754 1342 1758 1321 1754 1285 1082 1285 1082 1316"/></Shape>
+	    <String CONTENT="equo iure cum ceteris. quia sit acquiret . sͥ." HPOS="1080" VPOS="1285" WIDTH="678" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_977af2fc" BASELINE="1080 1359 1771 1359" HPOS="1080" VPOS="1331" WIDTH="691" HEIGHT="60">
+            <Shape><Polygon POINTS="1080 1359 1080 1391 1771 1391 1771 1359 1771 1333 1080 1331 1080 1359"/></Shape>
+	    <String CONTENT="magis affectiõem populi sui et facilius suc" HPOS="1080" VPOS="1331" WIDTH="691" HEIGHT="60"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1586f352" BASELINE="1080 1405 1750 1410" HPOS="1078" VPOS="1372" WIDTH="672" HEIGHT="61">
+            <Shape><Polygon POINTS="1080 1405 1078 1431 1746 1433 1750 1410 1748 1374 1080 1372 1080 1405"/></Shape>
+	    <String CONTENT="cedet in regnum sic inꝙͣ uolo eum uiuere" HPOS="1078" VPOS="1372" WIDTH="672" HEIGHT="61" WC="0.972407571971416"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_330aceab" BASELINE="1080 1446 1773 1450" HPOS="1078" VPOS="1420" WIDTH="695" HEIGHT="55">
+            <Shape><Polygon POINTS="1080 1446 1078 1473 1769 1475 1773 1450 1773 1424 1080 1420 1080 1446"/></Shape>
+	    <String CONTENT="cum ceteris. ne qñqz hic paruus ignis .i. par" HPOS="1078" VPOS="1420" WIDTH="695" HEIGHT="55" WC="0.980913601491762"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c51e48f" BASELINE="1080 1495 1763 1492" HPOS="1078" VPOS="1463" WIDTH="685" HEIGHT="53">
+            <Shape><Polygon POINTS="1080 1495 1080 1516 1763 1512 1763 1492 1759 1463 1078 1463 1080 1495"/></Shape>
+	    <String CONTENT="ua cupiditas succedendi. in regno paterno" HPOS="1078" VPOS="1463" WIDTH="685" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9770f6af" BASELINE="1080 1541 1761 1537" HPOS="1078" VPOS="1503" WIDTH="683" HEIGHT="64">
+            <Shape><Polygon POINTS="1080 1541 1080 1567 1759 1565 1761 1537 1756 1503 1078 1505 1080 1541"/></Shape>
+	    <String CONTENT="exsuscitet ingens incendium ex inuidia" HPOS="1078" VPOS="1503" WIDTH="683" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d893b87f" BASELINE="1082 1586 1750 1582" HPOS="1080" VPOS="1554" WIDTH="670" HEIGHT="55">
+            <Shape><Polygon POINTS="1082 1586 1082 1607 1746 1609 1750 1582 1746 1554 1080 1554 1082 1586"/></Shape>
+	    <String CONTENT="que possz oriri inter hanibalem ⁊ hasdru" HPOS="1080" VPOS="1554" WIDTH="670" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cba2b9b2" BASELINE="1080 1628 1752 1624" HPOS="1078" VPOS="1594" WIDTH="674" HEIGHT="56">
+            <Shape><Polygon POINTS="1080 1628 1080 1650 1750 1647 1752 1624 1748 1596 1078 1594 1080 1628"/></Shape>
+	    <String CONTENT="balem. ¶ Quarto cum dicit. pauci." HPOS="1078" VPOS="1594" WIDTH="674" HEIGHT="56"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ebdee12" BASELINE="1078 1673 1775 1667" HPOS="1076" VPOS="1630" WIDTH="699" HEIGHT="68">
+            <Shape><Polygon POINTS="1078 1673 1078 1698 1775 1688 1775 1667 1769 1630 1534 1641 1076 1635 1078 1673"/></Shape>
+	    <String CONTENT="Docet ꝙ sententia pluriuum preualuit dicẽs" HPOS="1076" VPOS="1630" WIDTH="699" HEIGHT="68"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c49b8ffd" BASELINE="1080 1717 1759 1713" HPOS="1078" VPOS="1686" WIDTH="681" HEIGHT="57">
+            <Shape><Polygon POINTS="1080 1717 1080 1743 1758 1736 1759 1713 1754 1686 1078 1688 1080 1717"/></Shape>
+	    <String CONTENT="pauci assenciebant hannoni ac ferme .i. sz" HPOS="1078" VPOS="1686" WIDTH="681" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d11880c" BASELINE="1072 1762 1752 1762" HPOS="1072" VPOS="1726" WIDTH="680" HEIGHT="61">
+            <Shape><Polygon POINTS="1072 1762 1072 1785 1750 1787 1752 1762 1752 1732 1072 1726 1072 1762"/></Shape>
+	    <String CONTENT="fere quisqz optimus .s. assenciebat ei. sz ut" HPOS="1072" VPOS="1726" WIDTH="680" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b925bc8b" BASELINE="1078 1804 1759 1800" HPOS="1076" VPOS="1775" WIDTH="683" HEIGHT="55">
+            <Shape><Polygon POINTS="1078 1804 1078 1830 1758 1823 1759 1800 1756 1775 1076 1775 1078 1804"/></Shape>
+	    <String CONTENT="plerũqz fit .i. contĩgit pars maior uicit me" HPOS="1076" VPOS="1775" WIDTH="683" HEIGHT="55" WC="0.985426975333172"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67b8e40f" BASELINE="1078 1851 1771 1841" HPOS="1076" VPOS="1807" WIDTH="695" HEIGHT="74">
+            <Shape><Polygon POINTS="1078 1851 1078 1881 1769 1870 1771 1841 1765 1807 1076 1823 1078 1851"/></Shape>
+	    <String CONTENT="liorem .s. obtinendo ꝙ hanibal mitteretur in" HPOS="1076" VPOS="1807" WIDTH="695" HEIGHT="74"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65a740d3" BASELINE="1078 1898 1773 1893" HPOS="1076" VPOS="1857" WIDTH="697" HEIGHT="68">
+            <Shape><Polygon POINTS="1078 1898 1078 1925 1773 1919 1773 1893 1767 1857 1076 1866 1078 1898"/></Shape>
+	    <String CONTENT="hyspaniam. ¶ Missus. Hic docz quomõ" HPOS="1076" VPOS="1857" WIDTH="697" HEIGHT="68"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_088f13d2" BASELINE="1080 1940 1761 1936" HPOS="1078" VPOS="1906" WIDTH="683" HEIGHT="62">
+            <Shape><Polygon POINTS="1080 1940 1080 1968 1759 1959 1761 1936 1756 1906 1078 1911 1080 1940"/></Shape>
+	    <String CONTENT="hanibal tam imperatori ꝙͣ excercitui fuit" HPOS="1078" VPOS="1906" WIDTH="683" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1c24d9f" BASELINE="1082 1983 1739 1979" HPOS="1080" VPOS="1953" WIDTH="659" HEIGHT="55">
+            <Shape><Polygon POINTS="1082 1983 1082 2008 1737 2008 1739 1979 1733 1953 1080 1953 1082 1983"/></Shape>
+	    <String CONTENT="acceptus. Et circa hoc tria facit. qͥa pͥmo" HPOS="1080" VPOS="1953" WIDTH="659" HEIGHT="55" WC="0.989466328953588"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afd99f08" BASELINE="1080 2027 1776 2023" HPOS="1078" VPOS="1989" WIDTH="698" HEIGHT="66">
+            <Shape><Polygon POINTS="1080 2027 1080 2055 1776 2048 1776 2023 1771 1989 1078 1998 1080 2027"/></Shape>
+	    <String CONTENT="docz quõ p̃p̃ similitudinem prĩs fuit acceptꝰ" HPOS="1078" VPOS="1989" WIDTH="698" HEIGHT="66" WC="0.986350745596784"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f9f5f99" BASELINE="1082 2074 1754 2070" HPOS="1080" VPOS="2040" WIDTH="674" HEIGHT="59">
+            <Shape><Polygon POINTS="1082 2074 1082 2099 1752 2095 1754 2070 1748 2040 1080 2042 1082 2074"/></Shape>
+	    <String CONTENT="excercitui. dicens. hanibal missus in hys" HPOS="1080" VPOS="2040" WIDTH="674" HEIGHT="59"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e5b795d" BASELINE="1082 2123 1769 2112" HPOS="1080" VPOS="2082" WIDTH="689" HEIGHT="64">
+            <Shape><Polygon POINTS="1082 2123 1082 2146 1769 2142 1769 2112 1763 2082 1080 2087 1082 2123"/></Shape>
+	    <String CONTENT="paniam statim pͥmo aduentu conuertit in" HPOS="1080" VPOS="2082" WIDTH="689" HEIGHT="64" WC="0.984877395324218"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2fafb96" BASELINE="1080 2170 1767 2161" HPOS="1078" VPOS="2131" WIDTH="689" HEIGHT="68">
+            <Shape><Polygon POINTS="1080 2170 1080 2199 1767 2191 1767 2161 1761 2131 1078 2131 1080 2170"/></Shape>
+	    <String CONTENT="se oẽm excercitum ueteres milites credere .i." HPOS="1078" VPOS="2131" WIDTH="689" HEIGHT="68"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce2fc17a" BASELINE="1084 2216 1769 2212" HPOS="1082" VPOS="2184" WIDTH="687" HEIGHT="62">
+            <Shape><Polygon POINTS="1084 2216 1084 2246 1767 2239 1769 2212 1763 2184 1082 2186 1084 2216"/></Shape>
+	    <String CONTENT="credebant amulcarem .s. prẽm hanibalis" HPOS="1082" VPOS="2184" WIDTH="687" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a5480cd" BASELINE="1082 2267 1756 2257" HPOS="1080" VPOS="2229" WIDTH="676" HEIGHT="61">
+            <Shape><Polygon POINTS="1082 2267 1082 2290 1754 2284 1756 2257 1750 2229 1080 2237 1082 2267"/></Shape>
+	    <String CONTENT="redditum s iuuentem intueriqz .i. intue" HPOS="1080" VPOS="2229" WIDTH="676" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35181859" BASELINE="1080 2309 1765 2303" HPOS="1078" VPOS="2275" WIDTH="687" HEIGHT="62">
+            <Shape><Polygon POINTS="1080 2309 1080 2337 1763 2326 1765 2303 1759 2275 1078 2275 1080 2309"/></Shape>
+	    <String CONTENT="bantur eumdem uictorem in uultu .s. q̃m" HPOS="1078" VPOS="2275" WIDTH="687" HEIGHT="62"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1de3d4b1" BASELINE="1080 2354 1769 2350" HPOS="1078" VPOS="2326" WIDTH="691" HEIGHT="53">
+            <Shape><Polygon POINTS="1080 2354 1080 2379 1767 2373 1769 2350 1765 2326 1078 2326 1080 2354"/></Shape>
+	    <String CONTENT="hũit pr̃ uimqz .s. eamdem in oculis hĩtum" HPOS="1078" VPOS="2326" WIDTH="691" HEIGHT="53"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aa65b58" BASELINE="1080 2392 1771 2397" HPOS="1078" VPOS="2363" WIDTH="693" HEIGHT="63">
+            <Shape><Polygon POINTS="1080 2392 1078 2420 1767 2426 1771 2397 1771 2363 1080 2363 1080 2392"/></Shape>
+	    <String CONTENT="oris .i. disposicionem faciei eandem sine linia" HPOS="1078" VPOS="2363" WIDTH="693" HEIGHT="63"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d79d3b1c" BASELINE="1078 2441 1752 2435" HPOS="1076" VPOS="2403" WIDTH="676" HEIGHT="61">
+            <Shape><Polygon POINTS="1078 2441 1078 2464 1750 2462 1752 2435 1746 2403 1076 2409 1078 2441"/></Shape>
+	    <String CONTENT="mentaqz .s. corporis eadem. ꝙͣi dr̃et in õibz" HPOS="1076" VPOS="2403" WIDTH="676" HEIGHT="61"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c037741" BASELINE="1078 2483 1722 2483" HPOS="1078" VPOS="2454" WIDTH="644" HEIGHT="57">
+            <Shape><Polygon POINTS="1078 2483 1078 2511 1722 2507 1722 2483 1722 2454 1078 2454 1078 2483"/></Shape>
+	    <String CONTENT="iuiderunt em similem simulem patri" HPOS="1078" VPOS="2454" WIDTH="644" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7dbafef" BASELINE="1080 2534 1765 2530" HPOS="1078" VPOS="2488" WIDTH="687" HEIGHT="70">
+            <Shape><Polygon POINTS="1080 2534 1080 2558 1765 2553 1765 2530 1761 2500 1489 2490 1487 2490 1266 2500 1233 2488 1231 2488 1097 2488 1095 2488 1093 2488 1091 2488 1078 2498 1080 2534"/></Shape>
+	    <String CONTENT="¶ Secundo cum dicit. deinde breui. docz" HPOS="1078" VPOS="2488" WIDTH="687" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bda999bf" BASELINE="1078 2577 1761 2573" HPOS="1076" VPOS="2543" WIDTH="685" HEIGHT="64">
+            <Shape><Polygon POINTS="1078 2577 1078 2607 1759 2600 1761 2573 1756 2543 1076 2547 1078 2577"/></Shape>
+	    <String CONTENT="quomodo non ꝓpter pr̃em. sz ꝓpt̾ se ip̃m ac" HPOS="1076" VPOS="2543" WIDTH="685" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c26b41d2" BASELINE="1080 2622 1752 2619" HPOS="1078" VPOS="2588" WIDTH="674" HEIGHT="53">
+            <Shape><Polygon POINTS="1080 2622 1080 2641 1750 2638 1752 2619 1746 2588 1078 2594 1080 2622"/></Shape>
+	    <String CONTENT="ceptus fuit tam imperatori ꝙ̃ excercitui" HPOS="1078" VPOS="2588" WIDTH="674" HEIGHT="53" WC="0.983843488991261"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb72cec2" BASELINE="1078 2662 1754 2658" HPOS="1076" VPOS="2632" WIDTH="678" HEIGHT="57">
+            <Shape><Polygon POINTS="1078 2662 1078 2689 1752 2679 1754 2658 1748 2632 1076 2634 1078 2662"/></Shape>
+	    <String CONTENT="unde dicit. deinde breui .s. tempore effecit" HPOS="1076" VPOS="2632" WIDTH="678" HEIGHT="57" WC="0.987736827947877"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a34fc1ac" BASELINE="1078 2709 1773 2706" HPOS="1076" VPOS="2677" WIDTH="697" HEIGHT="104">
+            <Shape><Polygon POINTS="1078 2709 1078 2755 1124 2766 1125 2766 1127 2766 1160 2759 1165 2757 1173 2759 1220 2776 1222 2776 1224 2776 1275 2766 1292 2779 1294 2779 1296 2779 1298 2781 1330 2781 1330 2779 1332 2779 1334 2779 1358 2764 1364 2761 1371 2764 1404 2779 1406 2779 1407 2779 1409 2779 1411 2779 1411 2778 1424 2766 1436 2755 1496 2755 1515 2766 1517 2766 1519 2766 1521 2766 1523 2766 1538 2759 1551 2770 1559 2778 1561 2778 1563 2778 1565 2778 1602 2772 1693 2755 1714 2776 1716 2776 1716 2778 1718 2778 1720 2778 1722 2778 1773 2776 1773 2706 1767 2677 1076 2679 1078 2709"/></Shape>
+	    <String CONTENT="s. hanibal ut pr̃ ẽẽt miminũ monum̃tũ" HPOS="1076" VPOS="2677" WIDTH="697" HEIGHT="104"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bb1aabf4" BASELINE="2170 83 2231 83" HPOS="2170" VPOS="60" WIDTH="61" HEIGHT="95">
+            <Shape><Polygon POINTS="2227 66 2215 60 2181 62 2170 81 2170 83 2170 155 2231 151 2231 83 2229 60 2227 60 2227 66"/></Shape>
+	    <String CONTENT="d" HPOS="2170" VPOS="60" WIDTH="61" HEIGHT="95" WC="0.992806553840637"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
