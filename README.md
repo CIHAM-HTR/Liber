@@ -24,10 +24,11 @@ Data follow the standards recommended by the CREMMALAB project, see Ariane Pinch
 
 Data List :
 
- | Shelfmark                                                                  | Biblissima                                     | Pages | Type         | Century | lang. | Color | Content                       | transcriber       |
-|----------------------------------------------------------------------------|------------------------------------------------|-------|--------------|---------|-------|-------|-------------------------------|-------------------|
-| [Paris, BnF, NAF, 27401](https://gallica.bnf.fr/ark:/12148/btv1b10532600x) | [→](https://data.biblissima.fr/entity/Q68441)  | 10    | History      | 14th    | fro   | True  | Pierre Bersuire's translation | Davide Aruta      |
-| [Paris, BnF, fr. 1446](https://gallica.bnf.fr/ark:/12148/btv1b8451118s)    |                                                | 10    | History      | 15th    | fro   | True  | Pierre Bersuire's translation | Martina Lenzi     |
-| Lisboa, Bibi. nac., mss illum., 134-135.                                   | [→](https://data.biblissima.fr/entity/Q309089) | 17    | Commentaries | 15th    | lat   | True  | Nicolas Trevet Commentaries   | Armelle Le Huërou |
+| Shelfmark                                                                  | Biblissima                                     | Pages | Century | lang. | Color | Content                       | transcriber       |
+|----------------------------------------------------------------------------|------------------------------------------------|-------|---------|-------|-------|-------------------------------|-------------------|
+| [Paris, BnF, NAF, 27401](https://gallica.bnf.fr/ark:/12148/btv1b10532600x) | [→](https://data.biblissima.fr/entity/Q68441)  | 10    | 14th    | fro   | True  | Pierre Bersuire's translation | Davide Aruta      |
+| [Paris, BnF, fr. 1446](https://gallica.bnf.fr/ark:/12148/btv1b8451118s)    |                                                | 10    | 15th    | fro   | True  | Pierre Bersuire's translation | Martina Lenzi     |
+| Lisboa, Bibi. nac., mss illum., 134-135.                                   | [→](https://data.biblissima.fr/entity/Q309089) | 17    | 15th    | lat   | True  | Nicolas Trevet Commentaries   | Armelle Le Huërou |
+
 
 
