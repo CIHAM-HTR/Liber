@@ -28,7 +28,7 @@ Data List :
 | Shelfmark                                                                  | Biblissima                                     | Pages | Century | lang. | Color | Content                       | transcriber       |
 |----------------------------------------------------------------------------|------------------------------------------------|-------|---------|-------|-------|-------------------------------|-------------------|
 | [Paris, BnF, NAF, 27401](https://gallica.bnf.fr/ark:/12148/btv1b10532600x) | [→](https://data.biblissima.fr/entity/Q68441)  | 10    | 14th    | fro   | True  | Pierre Bersuire's translation | Davide Aruta      |
-| [Paris, BnF, fr. 1446](https://gallica.bnf.fr/ark:/12148/btv1b8451118s)    |                                                | 10    | 15th    | fro   | True  | Pierre Bersuire's translation | Martina Lenzi     |
+| [Paris, BnF, fr. 263](https://gallica.bnf.fr/ark:/12148/btv1b8451118s)    |                                                | 10    | 15th    | fro   | True  | Pierre Bersuire's translation | Martina Lenzi     |
 | Lisboa, Bibi. nac., mss illum., 134-135.                                   | [→](https://data.biblissima.fr/entity/Q309089) | 17    | 15th    | lat   | True  | Nicolas Trevet Commentaries   | Armelle Le Huërou |
 
 
