@@ -19,7 +19,7 @@ Data have been made in **eScriptorium**, see https://gitlab.com/scripta/escripto
 
 ## Transcription guidelines
 
-Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. [hal-03697382](https://hal.science/hal-03697382/document)
+Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. [hal-03697382](https://hal.science/hal-03697382/document) and Thibault Clérice, Malamatenia Vlachou-Efstathiou, Alix Chagué. CREMMA Medii Aevi: Literary manuscript text recognition in Latin. *Journal of Open Humanities Data*, 2023. [hal-03828353v5](https://hal-enc.archives-ouvertes.fr/hal-03828353v5)
 
 ## Sources
 
