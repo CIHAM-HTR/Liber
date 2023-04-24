@@ -21,7 +21,7 @@ jobs:
           pip install htruc
       - name: Run HTRUC
         run: |
-          htruc test liber.yml
+          htruc test htr-united.yml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
