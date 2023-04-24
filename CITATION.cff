@@ -24,6 +24,12 @@ authors:
     email: armellelehuerou@yahoo.fr
     affiliation: CIHAM
     orcid : 0000-0001-7938-2686
+  - given-names: Marylène
+    family-names: Possamai
+    role : Project Manager
+    email: marylene.possamai@univ-lyon2.fr
+    affiliation: CIHAM
+    orcid : 0000-0002-9250-370X
   - given-names: Ariane
     family-names: Pinche
     role : data manager
@@ -32,7 +38,7 @@ authors:
     orcid: '0000-0002-7843-5050'
 repository-code: 'https://github.com/CIHAM-HTR/Liber/data'
 abstract: >-
-  HTR datasets from medieval manuscripts (14th-15th c.) with Pierre Bersuire's translation into Old French of the work of Titus Livius or Nicolas Trevet Commentaries
+  HTR datasets from medieval manuscripts (14th-15th c.) with Pierre Bersuire's translation into Old French of the work of Titus Livius and Nicolas Trevet Commentaries
 keywords:
   - HTR
   - Old French
